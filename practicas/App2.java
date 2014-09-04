@@ -20,5 +20,6 @@ public class App2 {
     resd = (double) x/y;
     System.out.println( "resi: "+resi );
     System.out.println( "resd: "+resd );
+    System.out.println("Esto es una prueba");
 }
 }
