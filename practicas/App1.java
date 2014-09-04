@@ -7,10 +7,10 @@ package Lab_2;
 public class App1 {
     
     public static void main (String args[]){
-        int i=1;
-        long l=1l;
-        double d=1.5;
-        float f=1.5f;
+        int i=5;
+        long l=22;
+        double d=4.5;
+        float f=5.5f;
         boolean b=true;
         char c='a';
         String cadena="Esto es una \ncadena";
